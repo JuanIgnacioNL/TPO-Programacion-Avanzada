@@ -2,6 +2,6 @@
 int main()
 {
 
-printf("Vamo Boca");
+printf("Aguante La Axoloneta");
 return 0;
 }
